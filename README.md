@@ -1,6 +1,9 @@
 # bottommenu
 android 带数字或提示底部菜单，使用FlycoTabLayout和butterknife开源框架
 
+截图：
+![图片1}(https://github.com/HAPPYDAY048/androidBottomMenu/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180828170252.png)
+![图片1}(https://github.com/HAPPYDAY048/androidBottomMenu/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180828170252.png)
 
 代码如下：
 # activity 类
